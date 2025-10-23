@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
 </p>
 
 ---
