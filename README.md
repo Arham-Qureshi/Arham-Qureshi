@@ -22,7 +22,7 @@
 
 ### 🧩 Featured Projects  
 
-#### 🎲 [Tetris Game (C++/Python)](https://github.com/Arham-Qureshi)
+#### 🎲 [Tetris Game (C++/MakeFile)](https://github.com/Arham-Qureshi)
 > A fun twist on the classic Tetris with advanced logic and real-time graphics.  
 > *Includes user-friendly UI, levels, and score tracking.*
 
@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/Arham-Qureshi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
-  <a href="https://www.linkedin.com/in/arham-qureshi-6b2371353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arham-qureshi-3250a4380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arhamqureshi0098@gmail.com"><img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
