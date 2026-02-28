@@ -79,9 +79,9 @@
   <tr>
     <td><b>Data Science</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pandas" />
-      <img src="https://skillicons.dev/icons?i=numpy" />
-      <img src="https://skillicons.dev/icons?i=matplotlib" />
+     <h5>PANDAS</h5>
+     <h5>NUMPY</h5>
+     <h5>MATPLOTLIB</h5>
     </td>
   </tr>
 
@@ -91,12 +91,18 @@
       <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=vscode" />
-      <img src="https://skillicons.dev/icons?i=postman" />
     </td>
   </tr>
 
 </table>
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <!-- Dark Mode -->
+  <img src="https://github.com/Arham-Qureshi/Arham-Qureshi/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+</p>
+
 
 ### 📊 GitHub Stats  
 
