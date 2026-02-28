@@ -25,13 +25,13 @@
 
 ### 🧩 Featured Projects  
 
-#### 🎲 [Tetris Game (C++/MakeFile)](https://github.com/Arham-Qureshi)
+#### 🎲 [Tetris Game (C++/MakeFile)](https://github.com/Working-With-Raylib)
 > A fun twist on the classic Tetris with advanced logic and real-time graphics.  
 > *Includes user-friendly UI, levels, and score tracking.*
 
-#### 🧠 [Hands-on GUI with Python (NetworkX, PyQt5, etc.)](https://github.com/Arham-Qureshi)
-> Interactive visualizations and GUI applications powered by Python.  
-> *Mix of data visualization, network theory, and design flair.*
+#### 🧠 [Hands-on GUI with Python (NetworkX, PyQt5, etc.)](https://github.com/Algo-Wars)
+> Interactive visualizations of OS scheduling algorithm 
+> *with 2 different modes*
 
 ---
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -95,13 +95,7 @@
   </tr>
 
 </table>
----
-## 🐍 Contribution Snake
 
-<p align="center">
-  <!-- Dark Mode -->
-  <img src="https://github.com/Arham-Qureshi/Arham-Qureshi/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
-</p>
 
 
 ### 📊 GitHub Stats  
@@ -117,11 +111,6 @@
   
 </div>
 
----
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Arham-Qureshi/Arham-Qureshi/blob/output/github-contribution-grid-snake.svg)
----
 
 ### 🌐 Connect With Me  
 
