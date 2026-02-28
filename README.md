@@ -34,16 +34,41 @@
 > *Mix of data visualization, network theory, and design flair.*
 
 ---
+## 🛠️ Tech Stack
 
-### 🧰 Tech Stack  
+### 👨‍💻 Languages
+- Python
+- C++
+- JavaScript
+- SQL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,flask,qt,github,vscode,git&theme=dark" />
-</p>
+### 🗄️ Databases
+- MySQL
+- SQLite
 
+### 🌐 Web & Frameworks
+- Flask
+- HTML5
+- CSS3
+- Bootstrap
+
+### 📊 Data Science
+- Pandas
+- NumPy
+- Matplotlib
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 ---
 
 ### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arham-Qureshi&theme=radical" />
+</p>
 
 <div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
   
