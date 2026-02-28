@@ -2,7 +2,7 @@
 <!-- Profile README for Arham Qureshi -->
 <!-- Designed with modern glassmorphism and dark aesthetics -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>      
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
@@ -34,51 +34,87 @@
 > *Mix of data visualization, network theory, and design flair.*
 
 ---
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 👨‍💻 Languages
-- Python
-- C++
-- JavaScript
-- SQL
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
 
-### 🗄️ Databases
-- MySQL
-- SQLite
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=js" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+  </tr>
 
-### 🌐 Web & Frameworks
-- Flask
-- HTML5
-- CSS3
-- Bootstrap
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=sqlite" />
+    </td>
+  </tr>
 
-### 📊 Data Science
-- Pandas
-- NumPy
-- Matplotlib
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask" />
+    </td>
+  </tr>
 
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Data Science</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pandas" />
+      <img src="https://skillicons.dev/icons?i=numpy" />
+      <img src="https://skillicons.dev/icons?i=matplotlib" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=github" />
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+  </tr>
+
+</table>
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arham-Qureshi&theme=radical" />
-</p>
 
 <div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
   
   ![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Arham-Qureshi&theme=radical&hide_border=true&background=0D1117)
-  
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Qureshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  
 </div>
 
+---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Arham-Qureshi/Arham-Qureshi/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🌐 Connect With Me  
