@@ -19,6 +19,9 @@
 🌙 Prefers working in the quiet of dark mode (literally and metaphorically 😎)  
 
 ---
+## 📈 Contribution Graph
+
+[![Arham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=react-dark)](https://github.com/Arham-Qureshi)
 
 ### 🧩 Featured Projects  
 
