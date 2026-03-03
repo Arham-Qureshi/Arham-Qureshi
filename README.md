@@ -60,10 +60,10 @@
 
  <div align="center">
     
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=transparent&hide_border=true) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arham-Qureshi&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arham-Qureshi&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Qureshi&theme=transparent&hide_border=true) |
 |:---:|:---:|:---:|
     
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=transparent) | ![](https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=transparent&color=F8D866&line=0066ff&point=00a2ff&area=true&hide_border=true) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arham-Qureshi&theme=transparent) | ![](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&bg_color=transparent&color=F8D866&line=0066ff&point=00a2ff&area=true&hide_border=true) |
 |:---:|:---:|
 
 </div>
