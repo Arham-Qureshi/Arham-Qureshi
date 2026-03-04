@@ -1,6 +1,4 @@
 
-<!-- Profile README for Arham Qureshi -->
-<!-- Designed with modern glassmorphism and dark aesthetics -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>      
 
