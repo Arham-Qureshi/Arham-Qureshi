@@ -41,33 +41,16 @@
 
 
 ### 📊 GitHub Stats  
+<div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
+  
+![](https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-</details>
+![](https://nirzak-streak-stats.vercel.app/?user=Arham-Qureshi&theme=dark&hide_border=false)<br/>
 
-<!-- GitHub Analytics
-## :octocat: GitHub Analytics
-<div align="center">
-<img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131871888&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @multiverseweb">
-<img align="center" width="771" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=242331&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Qureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
- -->
- 
-<details open>
-<summary> <b style="font-size:1.2rem;"> :octocat: GitHub Analytics</b> </summary>
 <br>
-
- <div align="center">
-    
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arham-Qureshi&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arham-Qureshi&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Arham-Qureshi&theme=transparent&hide_border=true) |
-|:---:|:---:|:---:|
-    
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arham-Qureshi&theme=transparent) | ![](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&bg_color=transparent&color=F8D866&line=0066ff&point=00a2ff&area=true&hide_border=true) |
-|:---:|:---:|
-
-</div>
-</details>
-
-<br>
+<hr>
 
 ### 🌐 Connect With Me  
 
