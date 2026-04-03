@@ -21,15 +21,6 @@
 
 [![Arham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=react-dark)](https://github.com/Arham-Qureshi)
 
-### 🧩 Featured Projects  
-
-#### 🎲 [Tetris Game (C++/MakeFile)](https://github.com/Working-With-Raylib)
-> A fun twist on the classic Tetris with advanced logic and real-time graphics.  
-> *Includes user-friendly UI, levels, and score tracking.*
-
-#### 🧠 [Hands-on GUI with Python (NetworkX, PyQt5, etc.)](https://github.com/Algo-Wars)
-> Interactive visualizations of OS scheduling algorithm 
-> *with 2 different modes*
 
 ---
 
