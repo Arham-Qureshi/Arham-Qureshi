@@ -8,7 +8,7 @@
  <!-- Stats Section -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arham-        Qureshi&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Arham-Qureshi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
 </p>
 
