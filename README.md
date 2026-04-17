@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>      
 
 <p align="center">
@@ -7,7 +5,18 @@
 </p>
 
 ---
+ <!-- Stats Section -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arham-        Qureshi&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Arham-Qureshi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
+</p>
+
+
+<!-- Contribution Graph -->
+[![Arham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=github-compact&hide_border=true)](https://github.com/Arham-Qureshi)
+
+---
 ### 🧠 About Me  
 
 💻 Passionate about **Game Development**, **AI**, and **Data Science**  
