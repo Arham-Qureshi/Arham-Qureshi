@@ -40,10 +40,6 @@
 
 ### 🧪 Fun Stuff
 ![Antigravity](https://img.shields.io/badge/antigravity-%23000000.svg?style=plastic&logo=python&logoColor=ffdd54)
-
-
-### 📊 GitHub Stats  
-<div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
   
 ![](https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
