@@ -8,13 +8,14 @@
  <!-- Stats Section -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Arham-Qureshi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham_Qureshi&show_icons=true&theme=tokyonight&count_private=true)]
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Arham_Qureshi&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham_Q&layout=compact&theme=tokyonight)
 <!-- Contribution Graph -->
-[![Arham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=react-dark)](https://github.com/Arham-Qureshi)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham_Qureshi&theme=react-dark)
+
 
 ---
 ### 🧠 About Me  
