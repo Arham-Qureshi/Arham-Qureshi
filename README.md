@@ -8,13 +8,13 @@
  <!-- Stats Section -->
 
 <p align="center">
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham_Qureshi&show_icons=true&theme=tokyonight&count_private=true)]
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Arham_Qureshi&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=tokyonight&count_private=true)]
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Arham-Qureshi&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham_Q&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Qureshi&layout=compact&theme=tokyonight)
 <!-- Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham_Qureshi&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=react-dark)
 
 
 ---
