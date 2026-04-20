@@ -22,6 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
+![Metrics](github/metrics.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
