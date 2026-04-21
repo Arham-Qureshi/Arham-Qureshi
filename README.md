@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&show=prs_merged,prs_merged_percentage"/>
-  <img src="https://streak-stats.demolab.com?user=Arham-Qureshi&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Arham-Qureshi&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
