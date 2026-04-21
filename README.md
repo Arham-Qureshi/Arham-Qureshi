@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arham-Qureshi&count_private=true&theme=react-dark&hide_border=true" />
 </p>
 
 ---
