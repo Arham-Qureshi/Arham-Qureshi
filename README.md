@@ -90,6 +90,10 @@
   <a href="mailto:arhamqureshi0098@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  </a>
+  <a href="https://dev.to/arhamqureshi">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </p>
 
 ---
