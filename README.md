@@ -81,7 +81,9 @@
 </p>
 
 ---
-
+🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arham-Qureshi&theme=dark&no-frame=false&no-bg=true&margin-w=5)
+---
 ## 🌐 Connect
 
 <p align="center">
