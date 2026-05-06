@@ -16,7 +16,6 @@
 - 💻 I like building stuff — games, tools, scripts, whatever keeps me busy
 - 🎮 Game development is where creativity and code actually make sense together
 - 🤖 Exploring AI and Data Science — still figuring out what I don't know
-- 🛠️ Currently working on a PDF tool because I genuinely hate PDFs
 - 🌙 Dark mode isn't a preference, it's a lifestyle
 
 ---
