@@ -56,6 +56,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4CAF50?style=plastic&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
 
 **Databases**
 
