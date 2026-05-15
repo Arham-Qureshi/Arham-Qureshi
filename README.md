@@ -58,6 +58,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=plastic&logo=googlechrome&logoColor=white)
+![MutationObserver](https://img.shields.io/badge/MutationObserver-4285F4?style=plastic&logo=googlechrome&logoColor=white)
 
 **Databases**
 
