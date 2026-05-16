@@ -69,6 +69,7 @@
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 
 **Tools & Platforms**
