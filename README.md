@@ -81,6 +81,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pip](https://img.shields.io/badge/pip-3775A9?style=plastic&logo=pypi&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
+
+  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
