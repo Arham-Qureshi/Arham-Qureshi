@@ -94,11 +94,7 @@
 
 ---
 
-## 🗂️ Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Qureshi&theme=tokyonight&hide_border=true&count_private=true&layout=compact" />
-</p>
 
 ---
 🏆 Github Trophies
