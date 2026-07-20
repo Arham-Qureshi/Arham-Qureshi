@@ -11,14 +11,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 💻 I like building stuff — games, tools, scripts, whatever keeps me busy
-- 🎮 Game development is where creativity and code actually make sense together
-- 🤖 Exploring AI and Data Science — still figuring out what I don't know
-- 🌙 Dark mode isn't a preference, it's a lifestyle
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
